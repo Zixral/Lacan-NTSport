@@ -1,3 +1,4 @@
+Hi
 # Lacan-NTSport
 Lacan NTSport is a Discord Bot that brings stats from Nitro Type to you. 
 
